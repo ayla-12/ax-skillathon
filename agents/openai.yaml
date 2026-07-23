@@ -1,4 +1,0 @@
-interface:
-  display_name: "Lead Research Automation"
-  short_description: "Public-source lead research for sales decisions."
-  default_prompt: "Use $my-workflow-skill to prepare a public-source lead research workbook for sales review."
