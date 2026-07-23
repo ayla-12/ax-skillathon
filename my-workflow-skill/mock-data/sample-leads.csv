@@ -1,0 +1,6 @@
+lead_id,company_name,headquarters_country,industry,company_website,lead_source
+DEMO-001,아카시아커머스,KR,이커머스,https://example.com/acacia-commerce,합성 캠페인
+DEMO-002,해솔모빌리티,KR,모빌리티,https://example.com/haesol-mobility,합성 웨비나
+DEMO-003,푸른구름에듀,KR,에듀테크,https://example.com/bluecloud-edu,합성 콘텐츠 다운로드
+DEMO-004,모래시계게임즈,KR,게임,https://example.com/hourglass-games,합성 파트너 소개
+DEMO-005,새벽클라우드,KR,B2B SaaS,https://example.com/dawn-cloud,합성 이벤트
